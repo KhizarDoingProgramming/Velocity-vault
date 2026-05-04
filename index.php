@@ -168,7 +168,8 @@
                 <h3>Let's talk performance</h3>
                 <p style="color: var(--text-dim); margin: 1.5rem 0 3rem;">Have questions about a specific part or need advice on your next upgrade? Our specialists are here to help.</p>
                 <ul style="color: var(--text-dim);">
-                    <li style="margin-bottom: 1rem;"><i class="fas fa-map-marker-alt" style="color: var(--primary); margin-right: 1rem;"></i> 123 Performance Way, Silicon Valley, CA</li>
+                    <li style="margin-bottom: 1rem;"><i class="fas fa-map-marker-alt" style="color: var(--primary); margin-right: 1rem;"></i> Phase 7, Bahria Town, Lahore, Pakistan</li>
+
                     <li style="margin-bottom: 1rem;"><i class="fas fa-phone" style="color: var(--primary); margin-right: 1rem;"></i> +1 (555) 000-VAULT</li>
                     <li><i class="fas fa-envelope" style="color: var(--primary); margin-right: 1rem;"></i> support@velocityvault.com</li>
                 </ul>
