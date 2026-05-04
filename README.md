@@ -42,5 +42,3 @@
 3. Open the project in your browser via the local server.
 4. Experience the speed.
 
----
-*Created by Antigravity - Premium Coding Assistant.*
