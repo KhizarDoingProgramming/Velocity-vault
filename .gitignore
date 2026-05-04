@@ -1,0 +1,6 @@
+.gemini/
+*.log
+.DS_Store
+node_modules/
+vendor/
+walkthrough.md
